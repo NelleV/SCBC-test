@@ -6,4 +6,4 @@ for i in range(10):
 
 print "Hello world"
 print "blah"
-print "blah", "something interesting"
+print "something new", "blah", "something interesting"
